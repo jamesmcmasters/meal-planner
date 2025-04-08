@@ -183,7 +183,7 @@
 
     // Function to generate shopping list (with or without alternate units)
     function generateShoppingList(selectedMeals, withAlternateUnits = false) {
-      const shoppingList = [];
+      const shoppingList = {};
       selectedMeals.forEach(mealName => {
         const meal = mealsData.meals[mealName];
         meal.ingredients.forEach(ingredient => {
@@ -191,17 +191,22 @@
           const quantity = ingredient.quantity;
           const unit = ingredient.unit;
 
-          const entry = {
-            item,
-            quantity,
-            unit,
-            alternateUnits: withAlternateUnits ? getAlternateUnits(quantity, unit) : ""
-          };
-          
-          shoppingList.push(entry);
-        });
+	  if (!shoppingList[item]) {
+	    shoppingList[item] = {
+	      item,
+	      quantity,
+              unit,
+	      alternateUnits: withAlternateUnits ? getAlternateUnits(quantity, unit) : ""
+	    };
+	  } else {
+	    shoppingList[item].quantity += quantity;
+	    if (withAlternateUnits) {
+	      shoppingList[item].alternateUnits = getAlternateUnits(shoppingList[item].quantity, unit);
+	    }
+	  }
+	});
       });
-      return shoppingList;
+      return Object.values(shoppingList);
     }
 
     // Function to calculate alternate units

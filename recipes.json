@@ -1,0 +1,1561 @@
+{
+  "Chicken Tinga - Brian Lagerstrom": {
+    "url": "https://www.brianlagerstrom.com/recipes/chicken-tinga",
+    "ingredients": [
+      {
+        "quantity": 1200.0,
+        "unit": "g",
+        "item": "chicken thigh"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "",
+        "item": "white onion"
+      },
+      {
+        "quantity": 3.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 25.0,
+        "unit": "g",
+        "item": "tomato paste"
+      },
+      {
+        "quantity": 14.5,
+        "unit": "ounce",
+        "item": "fire roasted tomato"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 200.0,
+        "unit": "g",
+        "item": "chicken stock"
+      },
+      {
+        "quantity": 10.0,
+        "unit": "g",
+        "item": "better than bouillon"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "chipotle chili in adobo sauce"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "g",
+        "item": "dried oregano"
+      },
+      {
+        "quantity": 20.0,
+        "unit": "g",
+        "item": "apple cider vinegar"
+      },
+      {
+        "quantity": 25.0,
+        "unit": "g",
+        "item": "cilantro"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "tostada shell"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "romaine lettuce"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "sour cream"
+      }
+    ],
+    "thumbnail": "images/chicken_tinga.png"
+  },
+  "Quick & Easy Indian Dinner - Brian Lagerstrom": {
+    "url": "https://www.brianlagerstrom.com/recipes/quick-indian-dinner",
+    "ingredients": [
+      {
+        "quantity": 1000.0,
+        "unit": "g",
+        "item": "chicken thigh"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "white onion"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "thumb",
+        "item": "ginger"
+      },
+      {
+        "quantity": 6.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 15.0,
+        "unit": "g",
+        "item": "curry powder"
+      },
+      {
+        "quantity": 5.0,
+        "unit": "g",
+        "item": "chili powder"
+      },
+      {
+        "quantity": 5.0,
+        "unit": "g",
+        "item": "cumin"
+      },
+      {
+        "quantity": 5.0,
+        "unit": "g",
+        "item": "turmeric"
+      },
+      {
+        "quantity": 15.0,
+        "unit": "g",
+        "item": "garam masala"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "g",
+        "item": "cayenne"
+      },
+      {
+        "quantity": 25.0,
+        "unit": "g",
+        "item": "tomato paste"
+      },
+      {
+        "quantity": 400.0,
+        "unit": "g",
+        "item": "tomato puree"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "bag",
+        "item": "baby spinach"
+      },
+      {
+        "quantity": 75.0,
+        "unit": "g",
+        "item": "frozen pea"
+      },
+      {
+        "quantity": 35.0,
+        "unit": "g",
+        "item": "heavy cream"
+      }
+    ],
+    "thumbnail": "images/quick_easy_indian_dinner.png"
+  },
+  "30 Minute Gyro Taco - Brian Lagerstrom": {
+    "url": "https://www.brianlagerstrom.com/recipes/30-minute-gyro-taco",
+    "ingredients": [
+      {
+        "quantity": 0.5,
+        "unit": "",
+        "item": "onion"
+      },
+      {
+        "quantity": 5.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 450.0,
+        "unit": "g",
+        "item": "ground beef"
+      },
+      {
+        "quantity": 450.0,
+        "unit": "g",
+        "item": "ground lamb"
+      },
+      {
+        "quantity": 50.0,
+        "unit": "g",
+        "item": "breadcrumb"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "g",
+        "item": "dried oregano"
+      },
+      {
+        "quantity": 5.0,
+        "unit": "g",
+        "item": "coriander"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "g",
+        "item": "chili flake"
+      },
+      {
+        "quantity": 7.0,
+        "unit": "g",
+        "item": "ground cumin"
+      },
+      {
+        "quantity": 150.0,
+        "unit": "g",
+        "item": "cucumber"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "",
+        "item": "red onion"
+      },
+      {
+        "quantity": 15.0,
+        "unit": "g",
+        "item": "fresh parsley"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 200.0,
+        "unit": "g",
+        "item": "plain yogurt"
+      },
+      {
+        "quantity": 75.0,
+        "unit": "g",
+        "item": "mayo"
+      },
+      {
+        "quantity": 3.0,
+        "unit": "g",
+        "item": "fresh dill"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "flour tortilla"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "greek style feta cheese"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "Pepperoncini"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "Shredded lettuce"
+      }
+    ],
+    "thumbnail": "images/30_minute_gyro_taco.png"
+  },
+  "Greek Chicken Souvlaki - Brian Lagerstrom": {
+    "url": "https://www.brianlagerstrom.com/recipes/chicken-souvlaki",
+    "ingredients": [
+      {
+        "quantity": 1000.0,
+        "unit": "g",
+        "item": "chicken thigh"
+      },
+      {
+        "quantity": 7.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 5.0,
+        "unit": "g",
+        "item": "dried oregano"
+      },
+      {
+        "quantity": 100.0,
+        "unit": "g",
+        "item": "Dijon mustard"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 350.0,
+        "unit": "g",
+        "item": "flour"
+      },
+      {
+        "quantity": 7.0,
+        "unit": "g",
+        "item": "instant yeast"
+      },
+      {
+        "quantity": 210.0,
+        "unit": "g",
+        "item": "flavorful yeasty beer"
+      },
+      {
+        "quantity": 160.0,
+        "unit": "g",
+        "item": "cucumber"
+      },
+      {
+        "quantity": 200.0,
+        "unit": "g",
+        "item": "greek yogurt"
+      },
+      {
+        "quantity": 75.0,
+        "unit": "g",
+        "item": "mayo"
+      },
+      {
+        "quantity": 5.0,
+        "unit": "g",
+        "item": "fresh dill"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "",
+        "item": "red onion"
+      },
+      {
+        "quantity": 20.0,
+        "unit": "g",
+        "item": "fresh parsley"
+      }
+    ],
+    "thumbnail": "images/greek_chicken_souvlaki.png"
+  },
+  "Zucchini And Tomato Flatbreads - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/zucchini-and-tomato-flatbreads-5e67d93735c3537f181f43c8-05ba09c5.pdf",
+    "ingredients": [
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "zucchini"
+      },
+      {
+        "quantity": 225.0,
+        "unit": "g",
+        "item": "grape tomato"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 250.0,
+        "unit": "g",
+        "item": "ricotta cheese"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "flatbread"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "basil"
+      },
+      {
+        "quantity": 5.0,
+        "unit": "g",
+        "item": "chili flake"
+      },
+      {
+        "quantity": 28.0,
+        "unit": "g",
+        "item": "honey"
+      }
+    ],
+    "thumbnail": "images/zucchini_and_tomato_flatbreads.png"
+  },
+  "Szechuan Beef Noodles - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipes/szechuan-beef-noodles-61264d9679051e073b351574",
+    "ingredients": [
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 570.0,
+        "unit": "g",
+        "item": "ground beef"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "",
+        "item": "cabbage"
+      },
+      {
+        "quantity": 60.0,
+        "unit": "g",
+        "item": "szechuan paste"
+      },
+      {
+        "quantity": 60.0,
+        "unit": "g",
+        "item": "sweet soy glaze"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "beef stock concentrate"
+      },
+      {
+        "quantity": 340.19399999999996,
+        "unit": "g",
+        "item": "ramen noodle"
+      },
+      {
+        "quantity": 14.79,
+        "unit": "g",
+        "item": "sesame seed"
+      }
+    ],
+    "thumbnail": "images/szechuan_beef_noodles.png"
+  },
+  "Hoisin Honey Chicken - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipes/hoisin-honey-chicken-61a78a55afd0791df10be063",
+    "ingredients": [
+      {
+        "quantity": 340.19399999999996,
+        "unit": "g",
+        "item": "green bean"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "thumb",
+        "item": "ginger"
+      },
+      {
+        "quantity": 118.32,
+        "unit": "g",
+        "item": "hoisin sauce"
+      },
+      {
+        "quantity": 19.6707,
+        "unit": "g",
+        "item": "honey"
+      },
+      {
+        "quantity": 9.7614,
+        "unit": "g",
+        "item": "sriracha"
+      },
+      {
+        "quantity": 566.99,
+        "unit": "g",
+        "item": "chicken breast"
+      },
+      {
+        "quantity": 14.79,
+        "unit": "g",
+        "item": "sesame seed"
+      }
+    ],
+    "thumbnail": "images/hoisin_honey_chicken.png"
+  },
+  "Surfs Up Chicken & Rice Bowls - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/surfs-up-chicken-rice-bowls-6019715d75a1df47d4055154-c392659f.pdf",
+    "ingredients": [
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "kiwi"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "lime"
+      },
+      {
+        "quantity": 118.32,
+        "unit": "g",
+        "item": "sour cream"
+      },
+      {
+        "quantity": 9.7614,
+        "unit": "g",
+        "item": "chipotle powder"
+      },
+      {
+        "quantity": 566.99,
+        "unit": "g",
+        "item": "chicken breast"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "southwest spice blend"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "chicken stock concentrate"
+      }
+    ],
+    "thumbnail": "images/surfs_up_chicken_rice_bowls.png"
+  },
+  "Pork Sausage Rigatoni In A Creamy Sauce - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/pork-sausage-rigatoni-in-a-creamy-sauce-6006f75b5ec9d449ff6e4951-b2242dac.pdf",
+    "ingredients": [
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "red bell pepper"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 4.8807,
+        "unit": "g",
+        "item": "chili flake"
+      },
+      {
+        "quantity": 510.291,
+        "unit": "g",
+        "item": "sausage"
+      },
+      {
+        "quantity": 340.19399999999996,
+        "unit": "g",
+        "item": "rigatoni pasta"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "cream cheese"
+      },
+      {
+        "quantity": 118.32,
+        "unit": "g",
+        "item": "sour cream"
+      },
+      {
+        "quantity": 50.0,
+        "unit": "g",
+        "item": "parmesan cheese"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "frozen peas"
+      }
+    ],
+    "thumbnail": "images/pork_sausage_rigatoni_in_a_creamy_sauce.png"
+  },
+  "Hot Honey Brussels & Lemon Ricotta Flatbreads - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/hot-honey-brussels-ricotta-flatbreads-5fecf4b1fd24761a42763c19-96382b94.pdf",
+    "ingredients": [
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "flatbread"
+      },
+      {
+        "quantity": 21.262124999999997,
+        "unit": "g",
+        "item": "hot honey"
+      },
+      {
+        "quantity": 226.796,
+        "unit": "g",
+        "item": "ricotta cheese"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 453.592,
+        "unit": "g",
+        "item": "brussel sprouts"
+      },
+      {
+        "quantity": 50.0,
+        "unit": "g",
+        "item": "parmesan cheese"
+      },
+      {
+        "quantity": 14.79,
+        "unit": "g",
+        "item": "italian seasoning"
+      },
+      {
+        "quantity": 100.0,
+        "unit": "g",
+        "item": "italian cheese blend"
+      }
+    ],
+    "thumbnail": "images/hot_honey_brussels_lemon_ricotta_flatbreads.png"
+  },
+  "Frijoles Fresca Bowls - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/frijoles-fresca-bowls-5fe0ffec9050ec06d03e0096-a8bce58b.pdf",
+    "ingredients": [
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "poblano pepper"
+      },
+      {
+        "quantity": 759.7666,
+        "unit": "g",
+        "item": "black bean"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 118.32,
+        "unit": "g",
+        "item": "sour cream"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "southwest spice blend"
+      },
+      {
+        "quantity": 396.893,
+        "unit": "g",
+        "item": "green salsa"
+      },
+      {
+        "quantity": 100.0,
+        "unit": "g",
+        "item": "pepper jack cheese"
+      }
+    ],
+    "thumbnail": "images/frijoles_fresca_bowls.png"
+  },
+  "Firecracker Meatballs - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/firecracker-meatballs-5fc6ba5527958f46f91410f7-92d84204.pdf",
+    "ingredients": [
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "thumb",
+        "item": "ginger"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "mayo"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "sour cream"
+      },
+      {
+        "quantity": 19.6707,
+        "unit": "g",
+        "item": "honey"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "soy sauce"
+      },
+      {
+        "quantity": 9.7614,
+        "unit": "g",
+        "item": "sriracha"
+      },
+      {
+        "quantity": 566.99,
+        "unit": "g",
+        "item": "ground beef"
+      },
+      {
+        "quantity": 100.0,
+        "unit": "g",
+        "item": "breadcrumb"
+      },
+      {
+        "quantity": 340.19399999999996,
+        "unit": "g",
+        "item": "green bean"
+      },
+      {
+        "quantity": 4.8807,
+        "unit": "g",
+        "item": "korean chili flake"
+      }
+    ],
+    "thumbnail": "images/firecracker_meatballs.png"
+  },
+  "Chicken Tikka Masala": {
+    "url": "https://www.hellofresh.com/recipecards/card/chicken-tikka-masala-5fc6c7d989573e34d618a43c-752a6af3.pdf",
+    "ingredients": [
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "yellow onion"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "thumb",
+        "item": "ginger"
+      },
+      {
+        "quantity": 7.087375,
+        "unit": "g",
+        "item": "cilantro"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "chili pepper"
+      },
+      {
+        "quantity": 566.99,
+        "unit": "g",
+        "item": "chicken breast"
+      },
+      {
+        "quantity": 9.7614,
+        "unit": "g",
+        "item": "garlic powder"
+      },
+      {
+        "quantity": 19.6707,
+        "unit": "g",
+        "item": "garam masala"
+      },
+      {
+        "quantity": 85.04849999999999,
+        "unit": "g",
+        "item": "tomato paste"
+      },
+      {
+        "quantity": 226.796,
+        "unit": "g",
+        "item": "coconut milk"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "chicken stock concentrate"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "carrots"
+      }
+    ],
+    "thumbnail": "images/chicken_tikka_masala.png"
+  },
+  "Mexicali Black Bean Soup": {
+    "url": "https://www.hellofresh.com/recipecards/card/mexicali-black-bean-soup-608022d5e8b2b21b26654652-06bf61b9.pdf",
+    "ingredients": [
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "yellow onion"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 759.7666,
+        "unit": "g",
+        "item": "black bean"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "southwest spice blend"
+      },
+      {
+        "quantity": 85.04849999999999,
+        "unit": "g",
+        "item": "tomato paste"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "tex mex paste"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "veggie stock concentrate"
+      },
+      {
+        "quantity": 100.0,
+        "unit": "g",
+        "item": "cheddar cheese"
+      },
+      {
+        "quantity": 85.04849999999999,
+        "unit": "g",
+        "item": "blue corn tortilla chip"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "smoky red pepper crema"
+      }
+    ],
+    "thumbnail": "images/mexicali_black_bean_soup.png"
+  },
+  "Lasagna Soup": {
+    "url": "https://tastesbetterfromscratch.com/lasagna-soup/",
+    "ingredients": [
+      {
+        "quantity": 453.592,
+        "unit": "g",
+        "item": "ground beef"
+      },
+      {
+        "quantity": 453.592,
+        "unit": "g",
+        "item": "ground italian sausage"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "yellow onion"
+      },
+      {
+        "quantity": 6.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "tomato paste"
+      },
+      {
+        "quantity": 680.3879999999999,
+        "unit": "g",
+        "item": "marinara sauce"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "fresh parsley"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "basil"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "red pepper flakes"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "dried oregano"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "dried basil"
+      },
+      {
+        "quantity": 3000.0,
+        "unit": "g",
+        "item": "low sodium chicken broth"
+      },
+      {
+        "quantity": 18.0,
+        "unit": "",
+        "item": "lasagna noodle"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "spinach"
+      },
+      {
+        "quantity": 566.99,
+        "unit": "g",
+        "item": "ricotta cheese"
+      },
+      {
+        "quantity": 200.0,
+        "unit": "g",
+        "item": "mozzarella cheese"
+      },
+      {
+        "quantity": 100.0,
+        "unit": "g",
+        "item": "parmesan cheese"
+      }
+    ],
+    "thumbnail": "images/lasagna_soup.png"
+  },
+  "Chicken Caesar Wraps": {
+    "url": "https://tastesbetterfromscratch.com/chicken-caesar-wrap/",
+    "ingredients": [
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "romaine lettuce"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "4 cups cooked chicken"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "cherry tomatoes"
+      },
+      {
+        "quantity": 25.0,
+        "unit": "g",
+        "item": "parmesan cheese"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "crouton"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "caesar salad dressing"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "flour tortilla"
+      }
+    ],
+    "thumbnail": "images/chicken_caesar_wraps.png"
+  },
+  "Pineapple Chicken With Coconut Rice - Half Baked Harvest": {
+    "url": "https://www.halfbakedharvest.com/pineapple-chicken/",
+    "ingredients": [
+      {
+        "quantity": 680.0,
+        "unit": "g",
+        "item": "chicken"
+      },
+      {
+        "quantity": 77.0,
+        "unit": "g",
+        "item": "soy sauce"
+      },
+      {
+        "quantity": 78.0,
+        "unit": "g",
+        "item": "pineapple juice"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "brown sugar"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "ketchup"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "shallot"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 14.79,
+        "unit": "g",
+        "item": "ginger"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "red pepper flakes"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "cilantro"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "pineapple"
+      },
+      {
+        "quantity": 0.5,
+        "unit": "",
+        "item": "shallot"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "jalapeno"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "lime"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "thyme leave"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "avocado"
+      }
+    ],
+    "thumbnail": "images/pineapple_chicken_with_coconut_rice.png"
+  },
+  "Slow Cooker Cream Cheese Chicken": {
+    "url": "https://www.familyfoodonthetable.com/slow-cooker-cream-cheese-chicken/#recipe",
+    "ingredients": [
+      {
+        "quantity": 907.184,
+        "unit": "g",
+        "item": "chicken breast"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "onion"
+      },
+      {
+        "quantity": 226.796,
+        "unit": "g",
+        "item": "white button mushrooms"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 170.09699999999998,
+        "unit": "g",
+        "item": "cream cheese"
+      },
+      {
+        "quantity": 100.0,
+        "unit": "g",
+        "item": "mozzarella cheese"
+      }
+    ],
+    "thumbnail": "images/slow_cooker_cream_cheese_chicken.png"
+  },
+  "Spiced Chickpea Rice Bowls": {
+    "url": "https://www.hellofresh.com/recipes/spiced-chickpea-rice-bowls-64da9b213466802bb5e72ab9",
+    "ingredients": [
+      {
+        "quantity": 2.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 793.786,
+        "unit": "g",
+        "item": "chickpea"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "red onion"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "cucumber"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "veggie stock concentrate"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "tunisian spice blend (caraway, coriander, paprika, turmeric, chili, garlic, cayenne, cinnamon, pepper)"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "sour cream"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "greek style feta cheese"
+      }
+    ],
+    "thumbnail": "images/spiced_chickpea_rice_bowls.png"
+  },
+  "Pad Ka-Prao": {
+    "url": "https://shesimmers.com/2012/05/pad-ka-prao-%E0%B8%9C%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2.html",
+    "ingredients": [
+      {
+        "quantity": 453.592,
+        "unit": "g",
+        "item": "ground turkey"
+      },
+      {
+        "quantity": 7.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 16.0,
+        "unit": "g",
+        "item": "bird's eye chili"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "shallot"
+      },
+      {
+        "quantity": 14.79,
+        "unit": "g",
+        "item": "fish sauce"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "light soy sauce"
+      },
+      {
+        "quantity": 14.79,
+        "unit": "g",
+        "item": "dark sweet soy sauce"
+      },
+      {
+        "quantity": 14.79,
+        "unit": "g",
+        "item": "oyster sauce"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "holy basil leaves"
+      }
+    ],
+    "thumbnail": "images/pad_ka.png"
+  },
+  "Spiced Chickpea Stew - New York Times": {
+    "url": "https://www.alisoneroman.com/recipes/spiced-chickpea-stew-with-coconut-and-turmeric",
+    "ingredients": [
+      {
+        "quantity": 4.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "yellow onion"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "thumb",
+        "item": "ginger"
+      },
+      {
+        "quantity": 7.395,
+        "unit": "g",
+        "item": "turmeric"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "red pepper flakes"
+      },
+      {
+        "quantity": 793.786,
+        "unit": "g",
+        "item": "chickpea"
+      },
+      {
+        "quantity": 793.786,
+        "unit": "g",
+        "item": "coconut milk"
+      },
+      {
+        "quantity": 500.0,
+        "unit": "g",
+        "item": "veggie stock"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "kale"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "mint leaves"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "pita"
+      }
+    ],
+    "thumbnail": "images/spiced_chickpea_stew.png"
+  },
+  "Instant Pot Red Wine Braised Beef Stew - Atk": {
+    "url": "https://removepaywalls.com/https://www.americastestkitchen.com/recipes/15223-instant-pot-red-wine-braised-beef-stew",
+    "ingredients": [
+      {
+        "quantity": 453.592,
+        "unit": "g",
+        "item": "cremini mushroom"
+      },
+      {
+        "quantity": 1360.7759999999998,
+        "unit": "g",
+        "item": "boneless beef chuck-eye roast"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "onion"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "tomato paste"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 9.7614,
+        "unit": "g",
+        "item": "fresh thyme"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "red wine"
+      },
+      {
+        "quantity": 10.0,
+        "unit": "g",
+        "item": "better than bouillon"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "bacon"
+      },
+      {
+        "quantity": 3.0,
+        "unit": "",
+        "item": "carrot"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "bay leaf"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "fresh parsley"
+      }
+    ],
+    "thumbnail": "images/instant_pot_red_wine_braised_beef_stew.png"
+  },
+  "Mediterranean Chicken Pasta Salad": {
+    "url": "https://mealprepmanual.com/mediterranean-chicken-pasta-salad/",
+    "ingredients": [
+      {
+        "quantity": 681.0,
+        "unit": "g",
+        "item": "chicken breast"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "g",
+        "item": "onion powder"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "g",
+        "item": "garlic powder"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "g",
+        "item": "cumin"
+      },
+      {
+        "quantity": 3.0,
+        "unit": "g",
+        "item": "salt"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "g",
+        "item": "dried oregano"
+      },
+      {
+        "quantity": 226.796,
+        "unit": "g",
+        "item": "pasta"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "cucumber"
+      },
+      {
+        "quantity": 150.0,
+        "unit": "g",
+        "item": "spinach"
+      },
+      {
+        "quantity": 227.0,
+        "unit": "g",
+        "item": "cherry tomato"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "red onion"
+      },
+      {
+        "quantity": 90.0,
+        "unit": "g",
+        "item": "olive oil"
+      },
+      {
+        "quantity": 60.0,
+        "unit": "g",
+        "item": "red wine vinegar"
+      },
+      {
+        "quantity": 15.0,
+        "unit": "g",
+        "item": "lemon juice"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "g",
+        "item": "dried oregano"
+      },
+      {
+        "quantity": 112.0,
+        "unit": "g",
+        "item": "feta cheese"
+      }
+    ],
+    "thumbnail": "images/mediterranean_chicken_pasta_salad.png"
+  },
+  "Honey Garlic Air Fryer Tofu": {
+    "url": "https://eatwithclarity.com/air-fried-tofu/#wprm-recipe-container-25006",
+    "ingredients": [
+      {
+        "quantity": 793.786,
+        "unit": "g",
+        "item": "tofu"
+      },
+      {
+        "quantity": 9.7614,
+        "unit": "g",
+        "item": "soy sauce"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "corn starch"
+      },
+      {
+        "quantity": 4.8807,
+        "unit": "g",
+        "item": "paprika"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 50.0,
+        "unit": "g",
+        "item": "breadcrumb"
+      },
+      {
+        "quantity": 177.48,
+        "unit": "g",
+        "item": "honey"
+      },
+      {
+        "quantity": 350.0,
+        "unit": "g",
+        "item": "veggie stock"
+      },
+      {
+        "quantity": 88.74,
+        "unit": "g",
+        "item": "soy sauce"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "thumb",
+        "item": "ginger"
+      },
+      {
+        "quantity": 19.6707,
+        "unit": "g",
+        "item": "sriracha"
+      },
+      {
+        "quantity": 9.7614,
+        "unit": "g",
+        "item": "toasted sesame oil"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "corn starch"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "red pepper flakes"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "green beans"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "broccoli"
+      }
+    ],
+    "thumbnail": "images/honey_garlic_air_fryer_tofu.png"
+  }
+}

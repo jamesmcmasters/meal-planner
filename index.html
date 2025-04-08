@@ -1,0 +1,231 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Meal Selector</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .num-meals {
+      margin-bottom: 20px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
+      gap: 10px;
+      padding: 10px;
+    }
+    .thumb {
+      position: relative;
+      border: 3px solid transparent;
+      border-radius: 8px;
+      overflow: hidden;
+      cursor: pointer;
+    }
+    .thumb img {
+      width: 100%;
+      display: block;
+      transition: transform 0.2s ease;
+    }
+    .thumb:hover img {
+      transform: scale(1.05);
+    }
+    .thumb.selected {
+      border-color: #4caf50;
+    }
+    .num-meals-label {
+      font-size: 18px;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    input[type="number"] {
+      font-size: 18px;
+      padding: 5px;
+      width: 60px;
+      text-align: center;
+    }
+    .button-row {
+      margin-top: 20px;
+    }
+    .button-row button {
+      font-size: 16px;
+      padding: 10px 20px;
+      margin: 0 10px;
+      cursor: pointer;
+      background-color: #4caf50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Pick Your Meals</h1>
+    <div class="num-meals">
+      <label class="num-meals-label" for="num-meals">Select number of meals: </label>
+      <input type="number" id="num-meals" value="3" min="1" max="10" step="1" />
+    </div>
+    <!-- Row of buttons for viewing shopping list and meal plan -->
+    <div class="button-row">
+      <button id="view-meal-plan">View Meal Plan</button>
+      <button id="view-shopping-list">View Shopping List</button>
+      <button id="view-shopping-list-alt">View Shopping List (Alternate Units)</button>
+    </div>
+    <div class="grid" id="grid"></div>
+
+  </div>
+
+  <script>
+    let num_meals = 3; // Default number of meals
+    const selected = new Set();
+    const mealsData = {}; // To store meal data for later use
+
+    // Update num_meals when the user changes the input
+    const numMealsInput = document.getElementById("num-meals");
+    numMealsInput.addEventListener("input", () => {
+      num_meals = parseInt(numMealsInput.value);
+    });
+
+    // Fetch and load meal data
+    fetch("recipes.json")
+      .then(res => res.json())
+      .then(data => {
+        mealsData.meals = data; // Store the meals data for later use
+        const grid = document.getElementById("grid");
+
+        // Iterate over the entries of the object
+        Object.entries(data).forEach(([name, recipe]) => {
+          const div = document.createElement("div");
+          div.classList.add("thumb");
+          div.title = name.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+
+          const img = document.createElement("img");
+          img.src = recipe.thumbnail;
+          div.appendChild(img);
+
+          // Click event to select/deselect meals
+          div.addEventListener("click", () => {
+            const key = name;
+            if (selected.has(key)) {
+              selected.delete(key);
+              div.classList.remove("selected");
+            } else {
+              if (selected.size < num_meals) {
+                selected.add(key);
+                div.classList.add("selected");
+              } else {
+                alert(`You can only select ${num_meals} meals.`);
+              }
+            }
+          });
+
+          // Right-click or long press event to open the recipe URL
+          div.addEventListener("contextmenu", (e) => {
+            e.preventDefault();
+            window.open(recipe.url, '_blank');
+          });
+
+          grid.appendChild(div);
+        });
+      })
+      .catch(error => console.error('Error loading recipes:', error));
+
+    // Function to generate and open the meal plan in a new tab
+    document.getElementById("view-meal-plan").addEventListener("click", () => {
+      const selectedMeals = Array.from(selected);
+      const mealPlan = selectedMeals.map(meal => {
+        const mealData = mealsData.meals[meal];
+	return `<a href="${mealData.url}" target="_blank">${meal}</a><br><br>`;
+      }).join("");
+  
+      const newWindow = window.open();
+      newWindow.document.write("<h1>Meal Plan</h1>");
+      newWindow.document.write(`<div>${mealPlan}</div>`);
+    });
+
+
+    // Function to generate and open the shopping list in a new tab
+    document.getElementById("view-shopping-list").addEventListener("click", () => {
+      const selectedMeals = Array.from(selected);
+      const shoppingList = generateShoppingList(selectedMeals);
+      
+      const newWindow = window.open();
+      newWindow.document.write("<h1>Shopping List</h1>");
+      newWindow.document.write("<ul>");
+      shoppingList.forEach(item => {
+        newWindow.document.write(`<li><input type="checkbox"> ${item.quantity} ${item.unit} ${item.item}</li>`);
+      });
+      newWindow.document.write("</ul>");
+    });
+
+    // Function to generate and open the shopping list with alternate units in a new tab
+    document.getElementById("view-shopping-list-alt").addEventListener("click", () => {
+      const selectedMeals = Array.from(selected);
+      const shoppingList = generateShoppingList(selectedMeals, true);
+      
+      const newWindow = window.open();
+      newWindow.document.write("<h1>Shopping List with Alternate Units</h1>");
+      newWindow.document.write("<ul>");
+      shoppingList.forEach(item => {
+        newWindow.document.write(`<li><input type="checkbox"> ${item.quantity} ${item.unit} ${item.item} (${item.alternateUnits})</li>`);
+      });
+      newWindow.document.write("</ul>");
+    });
+
+    // Function to generate shopping list (with or without alternate units)
+    function generateShoppingList(selectedMeals, withAlternateUnits = false) {
+      const shoppingList = [];
+      selectedMeals.forEach(mealName => {
+        const meal = mealsData.meals[mealName];
+        meal.ingredients.forEach(ingredient => {
+          const item = ingredient.item;
+          const quantity = ingredient.quantity;
+          const unit = ingredient.unit;
+
+          const entry = {
+            item,
+            quantity,
+            unit,
+            alternateUnits: withAlternateUnits ? getAlternateUnits(quantity, unit) : ""
+          };
+          
+          shoppingList.push(entry);
+        });
+      });
+      return shoppingList;
+    }
+
+    // Function to calculate alternate units
+    function getAlternateUnits(quantity, unit) {
+      const conversions = {
+        "g": {
+          "tsp": 0.2,
+          "tbsp": 0.067,
+          "oz": 0.035274,
+          "lbs": 0.00220462
+        },
+        "tbsp": { "g": 14.79 },
+        "oz": { "g": 28.3495 },
+      };
+
+      if (!conversions[unit]) return "";
+      const alternateUnits = Object.entries(conversions[unit]).map(([altUnit, factor]) => {
+        return `${(quantity * factor).toFixed(2)} ${altUnit}`;
+      }).join(", ");
+      
+      return alternateUnits;
+    }
+  </script>
+</body>
+</html>
+
+

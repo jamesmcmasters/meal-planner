@@ -210,8 +210,8 @@
         "item": "ground cumin"
       },
       {
-        "quantity": 150.0,
-        "unit": "g",
+        "quantity": 1.0,
+        "unit": "",
         "item": "cucumber"
       },
       {
@@ -817,7 +817,7 @@
       {
         "quantity": 1,
         "unit": "",
-        "item": "carrots"
+        "item": "carrot"
       }
     ],
     "thumbnail": "images/chicken_tikka_masala.png"
@@ -1054,8 +1054,8 @@
         "item": "garlic"
       },
       {
-        "quantity": 14.79,
-        "unit": "g",
+        "quantity": 1.0,
+        "unit": "thumb",
         "item": "ginger"
       },
       {
@@ -1398,11 +1398,6 @@
         "quantity": 2.0,
         "unit": "g",
         "item": "cumin"
-      },
-      {
-        "quantity": 3.0,
-        "unit": "g",
-        "item": "salt"
       },
       {
         "quantity": 1.0,

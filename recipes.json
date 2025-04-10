@@ -988,9 +988,9 @@
         "item": "4 cups cooked chicken"
       },
       {
-        "quantity": 1,
-        "unit": "",
-        "item": "cherry tomatoes"
+        "quantity": 226.796,
+        "unit": "g",
+        "item": "grape tomato"
       },
       {
         "quantity": 25.0,
@@ -1008,9 +1008,9 @@
         "item": "caesar salad dressing"
       },
       {
-        "quantity": 1,
+        "quantity": 8.0,
         "unit": "",
-        "item": "flour tortilla"
+        "item": "tortilla"
       }
     ],
     "thumbnail": "images/chicken_caesar_wraps.png"
@@ -1422,7 +1422,7 @@
       {
         "quantity": 227.0,
         "unit": "g",
-        "item": "cherry tomato"
+        "item": "grape tomato"
       },
       {
         "quantity": 1.0,
@@ -1552,5 +1552,183 @@
       }
     ],
     "thumbnail": "images/honey_garlic_air_fryer_tofu.png"
+  },
+  "Honey Garlic Chicken Wraps - Hello Fresh": {
+    "url": "https://www.hellofresh.ca/recipecards/card/honey-garlic-chicken-breasts-wraps-642bdfa55765e685be042fa0-fe06ead3.pdf",
+    "ingredients": [
+      {
+        "quantity": 566.99,
+        "unit": "g",
+        "item": "chicken breast"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "tsp",
+        "item": "garlic salt"
+      },
+      {
+        "quantity": 118.32,
+        "unit": "g",
+        "item": "honey-garlic salt"
+      },
+      {
+        "quantity": 12.0,
+        "unit": "",
+        "item": "tortilla"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "spring mix"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "tomato"
+      },
+      {
+        "quantity": 920.0,
+        "unit": "g",
+        "item": "potato"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "barbecue seasoning"
+      },
+      {
+        "quantity": 118.32,
+        "unit": "g",
+        "item": "ranch dressing"
+      },
+      {
+        "quantity": 7.0,
+        "unit": "g",
+        "item": "chives"
+      }
+    ],
+    "thumbnail": "images/honey_garlic_chicken_wraps.png"
+  },
+  "Chickpea Powered Mediterranean Couscous - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/chickpea-powered-mediterranean-couscous-61f98581e84b797e037a6616-8a36c2e2.pdf",
+    "ingredients": [
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "zucchini"
+      },
+      {
+        "quantity": 226.796,
+        "unit": "g",
+        "item": "grape tomato"
+      },
+      {
+        "quantity": 7.087375,
+        "unit": "g",
+        "item": "thyme"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 1.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 379.8833,
+        "unit": "g",
+        "item": "chickpea"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "tsp",
+        "item": "paprika"
+      },
+      {
+        "quantity": 270.0,
+        "unit": "g",
+        "item": "couscous"
+      },
+      {
+        "quantity": 1,
+        "unit": "",
+        "item": "greek style feta cheese"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "veggie stock concentrate"
+      }
+    ],
+    "thumbnail": "images/chickpea_powered_mediterranean_couscous.png"
+  },
+  "Warm Buttered Shrimp Rolls - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/chickpea-powered-mediterranean-couscous-61f98581e84b797e037a6616-8a36c2e2.pdf",
+    "ingredients": [
+      {
+        "quantity": 680.3879999999999,
+        "unit": "g",
+        "item": "yukon gold potato"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "lemon"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "tsp",
+        "item": "smoked paprika"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "tsp",
+        "item": "garlic powder"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "mayo"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "demi baguette"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "tsp",
+        "item": "celery salt"
+      },
+      {
+        "quantity": 226.796,
+        "unit": "g",
+        "item": "shredded red cabbage"
+      },
+      {
+        "quantity": 566.99,
+        "unit": "g",
+        "item": "shrimp"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "tsp",
+        "item": "hot sauce"
+      }
+    ],
+    "thumbnail": "images/warm_buttered_shrimp_rolls.png"
   }
 }

@@ -1730,5 +1730,61 @@
       }
     ],
     "thumbnail": "images/warm_buttered_shrimp_rolls.png"
+  },
+  "Pork & Veggie Bibimbap - Hello Fresh": {
+    "url": "https://www.hellofresh.com/recipecards/card/beef-veggie-bibimbap-621fa9df74792001df6bfa90-6effdaa1.pdf",
+    "ingredients": [
+      {
+        "quantity": 4.0,
+        "unit": "",
+        "item": "scallion"
+      },
+      {
+        "quantity": 340.19399999999996,
+        "unit": "g",
+        "item": "carrot"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "",
+        "item": "zucchini"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "thumb",
+        "item": "ginger"
+      },
+      {
+        "quantity": 2.0,
+        "unit": "clove",
+        "item": "garlic"
+      },
+      {
+        "quantity": 10.0,
+        "unit": "tsp",
+        "item": "white wine vinegar"
+      },
+      {
+        "quantity": 29.58,
+        "unit": "g",
+        "item": "sesame oil"
+      },
+      {
+        "quantity": 59.16,
+        "unit": "g",
+        "item": "soy sauce"
+      },
+      {
+        "quantity": 4.0,
+        "unit": "tsp",
+        "item": "sriracha"
+      },
+      {
+        "quantity": 566.99,
+        "unit": "g",
+        "item": "ground pork"
+      }
+    ],
+    "thumbnail": "images/placeholder.png"
   }
 }

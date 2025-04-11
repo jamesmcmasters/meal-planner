@@ -1671,7 +1671,7 @@
     "thumbnail": "images/chickpea_powered_mediterranean_couscous.png"
   },
   "Warm Buttered Shrimp Rolls - Hello Fresh": {
-    "url": "https://www.hellofresh.com/recipecards/card/chickpea-powered-mediterranean-couscous-61f98581e84b797e037a6616-8a36c2e2.pdf",
+    "url": "https://www.hellofresh.com/recipecards/card/warm-buttered-shrimp-rolls-61f04e15dbdce245092d99e5-d64ad07f.pdf",
     "ingredients": [
       {
         "quantity": 680.3879999999999,
@@ -1731,7 +1731,7 @@
     ],
     "thumbnail": "images/warm_buttered_shrimp_rolls.png"
   },
-  "Pork & Veggie Bibimbap - Hello Fresh": {
+  "Pork & Zucchini Bibimbap - Hello Fresh": {
     "url": "https://www.hellofresh.com/recipecards/card/beef-veggie-bibimbap-621fa9df74792001df6bfa90-6effdaa1.pdf",
     "ingredients": [
       {
@@ -1785,6 +1785,6 @@
         "item": "ground pork"
       }
     ],
-    "thumbnail": "images/placeholder.png"
+    "thumbnail": "images/pork_zucchini_bibimbap.png"
   }
 }
